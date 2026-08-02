@@ -1,2 +1,4 @@
-# stopwatch-py-77
+# Stopwatch Py 77
+
 Mock CLI stopwatch implementation in Python.
+
